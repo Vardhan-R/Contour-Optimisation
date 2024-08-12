@@ -1,2 +1,2 @@
-# Contour-Optimisation
+# Contour Optimisation
 Optimising a contour over a field.
